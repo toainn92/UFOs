@@ -14,10 +14,12 @@ The main webpage shows all the UFO sighting data onto an unfiltered table. The d
 ![](Resources/Unfiltered_Data_Table.PNG)
 
 On the bottom left corner of the webpage, there is a filter where a user can filter based on date, city, state, country, and shape of the UFO sighting. The picture below shows the filter search bar.
+
 ![](Resources/Filter_Search_Bar.PNG)
 
 To filter the data based on the specific category, the user can type in the field and press the Enter key. Below is the data filtered by "Date" of "1/5/2010"
 ![](Resources/Filter_by_Date.PNG)
+
 
 To filter data based on two different category, the user can type in two fields and press the Enter key. Below is the data filtered by the "Date" of 1/5/2010" and "State" of "ca"
 ![](Resources/Filter_by_Date_and_State.PNG)
