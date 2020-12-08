@@ -24,6 +24,8 @@ To filter the data based on the specific category, the user can type in the fiel
 To filter data based on two different category, the user can type in two fields and press the Enter key. Below is the data filtered by the "Date" of 1/5/2010" and "State" of "ca"
 ![](Resources/Filter_by_Date_and_State.PNG)
 
+
+By clicking "UFO Sightings" at the top left corner, the table and filters can be reset so a new data search can be completed.
 ![](Resources/Restart_Filter.PNG)
 
 ## Summary
