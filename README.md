@@ -12,5 +12,13 @@ The purpose of this analysis is to help Dana create a webpage that has dynamic t
 ## Results
 ![](Resources/Unfiltered_Data_Table.PNG)
 
+![](Resources/Filter_Search_Bar.PNG)
+
+![](Resources/Filter_by_Date.PNG)
+
+![](Resources/Filter_by_Date_and_State.PNG)
+
+![](Resources/Restart_Filter.PNG)
+
 ## Summary
 
