@@ -11,6 +11,10 @@ The purpose of this analysis is to help Dana create a webpage that is dynamic an
 
 
 ## Results
+The original webpage will show a table that contains all the UFO sighting data in an unfiltered format.
+
+
+
 
 ## Summary
 One drawback of this webpage
