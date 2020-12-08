@@ -30,3 +30,11 @@ By clicking "UFO Sightings" at the top left corner, the table and filters can be
 
 ## Summary
 
+### Drawback
+The one drawback of this webpage is that the data filter search bar is case-sensitive. For example, you have to type in the correct Country as "us" and not "US".
+
+### Recommendations:
+- To further develop the webpage, a possible update is to create a box to clear out the filters instead of clicking on the link on the top left corner.
+
+- Another development is to include a date range instead of static time. This is so the user can filter by time period for UFO sightings.
+
