@@ -13,3 +13,6 @@ The purpose of this analysis is to help Dana create a webpage that is dynamic an
 ## Results
 
 ## Summary
+One drawback of this webpage
+
+Addresses two additional recommendations for further development.
